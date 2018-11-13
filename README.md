@@ -7,7 +7,7 @@
 - [Push the image to DockerHub](#push-the-image-to-dockerhub)
 - [Configure Kubernetes Cluster on AWS](#configure-kubernetes-cluster-on-aws)
 - [Deploy the Kubernetes Dashboard](#deploy-the-kubernetes-dashboard)
-- [Deploy the Application in Kubernetes using .yml file](#deploy-the-app-in-kubernetes-using-ymlfile)
+- [Deploy the Application in Kubernetes using .yml file](#deploy-the-application-in-kubernetes-using-yml-file)
 - [Scaling Kubernetes Cluster pods](#scaling-kubernetes-cluster-pods)
 - [Delete the Kubernetes Cluster](#delete-the-kubernetes-cluster)
 <!-- /TOC -->
